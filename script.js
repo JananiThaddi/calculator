@@ -20,3 +20,4 @@ function calculate() {
 
   document.getElementById('result').innerText = "Result: " + result;
 }
+
